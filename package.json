@@ -11,7 +11,11 @@
   "author": "Nasir Saeed",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.2",
-    "prettier": "^3.3.0"
+    "nodemon": "^3.1.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.1"
   }
 }
