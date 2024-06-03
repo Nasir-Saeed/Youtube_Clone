@@ -1,0 +1,16 @@
+{
+  "name": "youtube_clone",
+  "version": "1.0.0",
+  "description": "This repo use for creating a youtube clone",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Nasir Saeed",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.2"
+  }
+}
